@@ -2,8 +2,8 @@
 
 
 ```bash
-git clone https://github.com/ross-u/Git-Components-and-props.git
-cd Git-Components-and-props
+git clone https://github.com/ross-u/React-Components-and-props
+cd React-Components-and-props
 
 # Install dependencies
 npm install
